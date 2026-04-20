@@ -34,14 +34,16 @@ Parallel solution of a 2D steady advection-diffusion equation using:
 * OpenMP
 * Finite Difference Methods (FDM)
 * Iterative Solvers (Jacobi, Red-Black)
-  
-📁 **Repository Structure**
-src/        # Source code (Fortran)
-docs/       # Reports
 
 🎯 **Key Highlights:**
 * Development of parallel solvers using MPI and OpenMP
 * Implementation of finite difference methods for PDEs
 * Analysis of parallel efficiency and scalability
 * Application to heat transfer and diffusion problems
+___________________________________________________________________________________________________________________________________________________________________
+
+📁 **Repository Structure**   
+/src        → Fortran source code   
+/docs       → Supporting documentations
+
 ___________________________________________________________________________________________________________________________________________________________________
